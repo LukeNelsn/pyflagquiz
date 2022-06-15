@@ -6,7 +6,7 @@ Quiz your flag knowledge with more than 200 flags from across the world. Includi
 Requires a few modules to effectively run from the Jupyter notebook:
 * random, json, PIL, glob, matplotlib, IPython, time
 
-If you'd rather play within the terminal itslef, you'll only need 
+If you'd rather play within the terminal itslef, you'll only need:
 * random, json, PIL, glob, matplotlib
 
 Credit for all flags and countries used: https://github.com/hampusborgos/country-flags
